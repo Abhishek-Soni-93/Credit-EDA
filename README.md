@@ -65,15 +65,15 @@ The data is about whether a client has payment difficulties.
 
 - Identify the missing data and use the appropriate method to deal with it. (Remove columns/or replace it with an appropriate value)
 
-Hint: Note that in EDA, since it is not necessary to replace the missing value, but if you have to replace the missing value, what should be the approach. Clearly mention the approach.
+###### Hint: Note that in EDA, since it is not necessary to replace the missing value, but if you have to replace the missing value, what should be the approach. Clearly mention the approach.
 
 - Identify if there are outliers in the dataset. Also, mention why do you think it is an outlier. Again, remember that for this exercise, it is not necessary to remove any data points.
 
 - Identify if there is data imbalance in the data. Find the ratio of data imbalance.
 
-Hint: How will you analyse the data in case of data imbalance? You can plot more than one type of plot to analyse the different aspects due to data imbalance. For example, you can choose your own scale for the graphs, i.e. one can plot in terms of percentage or absolute value. Do this analysis for the ‘Target variable’ in the dataset ( clients with payment difficulties and all other cases). Use a mix of univariate and bivariate analysis etc.
+###### Hint: How will you analyse the data in case of data imbalance? You can plot more than one type of plot to analyse the different aspects due to data imbalance. For example, you can choose your own scale for the graphs, i.e. one can plot in terms of percentage or absolute value. Do this analysis for the ‘Target variable’ in the dataset ( clients with payment difficulties and all other cases). Use a mix of univariate and bivariate analysis etc.
 
-Hint: Since there are a lot of columns, you can run your analysis in loops for the appropriate columns and find the insights.
+###### Hint: Since there are a lot of columns, you can run your analysis in loops for the appropriate columns and find the insights.
 
 - Explain the results of univariate, segmented univariate, bivariate analysis, etc. in business terms.
 
