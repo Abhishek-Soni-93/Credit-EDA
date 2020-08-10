@@ -22,7 +22,7 @@ When the company receives a loan application, the company has to decide for loan
 
 The data given below contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:
 
-= The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
+- The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
 
 - All other cases: All other cases when the payment is paid on time.
 
@@ -49,7 +49,7 @@ This case study aims to identify patterns which indicate if a client has difficu
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
 
-The dataset has 3 files as explained below: 
+###### The dataset has 3 files as explained below: 
 
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
