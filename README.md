@@ -49,7 +49,7 @@ This case study aims to identify patterns which indicate if a client has difficu
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
 
-###### The dataset has 3 files as explained below: 
+##### The dataset has 3 files as explained below: 
 
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
@@ -59,7 +59,7 @@ The data is about whether a client has payment difficulties.
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
 
-### Problem Statement - II
+## Problem Statement - II
  
 - Present the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.
 
